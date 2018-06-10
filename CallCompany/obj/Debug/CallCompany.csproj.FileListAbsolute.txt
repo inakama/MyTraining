@@ -1,0 +1,2 @@
+c:\users\inakama\documents\visual studio 2013\Projects\CallCompany\CallCompany\bin\Debug\CallCompany.exe.config
+C:\MyTraining\CallCompany\CallCompany\bin\Debug\CallCompany.exe.config
